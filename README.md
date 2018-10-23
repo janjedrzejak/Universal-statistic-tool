@@ -5,3 +5,8 @@ This file is a universal statistic excell tool. You can calculate statistic oper
 ## Needed software
 * Microsoft Excell 97-2003
 * VBA
+## Screenshots
+![Screen](https://github.com/janjedrzejak/Universal-statistic-tool/blob/demo/demo/1.png)
+![Screen](https://github.com/janjedrzejak/Universal-statistic-tool/blob/demo/demo/2.png)
+![Screen](https://github.com/janjedrzejak/Universal-statistic-tool/blob/demo/demo/3.png)
+![Screen](https://github.com/janjedrzejak/Universal-statistic-tool/blob/demo/demo/4.png)
